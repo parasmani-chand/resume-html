@@ -32,10 +32,12 @@ All content is written using basic and semantic HTML elements such as:
 
 ## 📂 Project Structure
 
-    my-resume-26-html/
+    resume-html/
     │
-    ├── resume-of-parasmani-chand.html
-    └── README.md
+    ├── index.html
+    ├── README.md
+    └── assets/
+        └── resume.png
 
 ---
 
