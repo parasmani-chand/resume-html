@@ -43,7 +43,7 @@ All content is written using basic and semantic HTML elements such as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/parasmani-chand/my-resume-26-html.git
+   git clone https://github.com/parasmani-chand/resume-html.git
 
 ---
 
